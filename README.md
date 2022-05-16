@@ -5,7 +5,7 @@
 
 I'm Okay from Turkey,and a Computer Engineering Student and FrontEnd Enthusiast. I am learning Javascript,React in these days. I also enjoy UI,UX design in general.
 
-Skills: Html / Css / Javacript / React / Python / Java
+Skills: Html / Css / Javascript / React / Python / Java
 
 - 🌱 I’m currently learning Javascript,React 
 - 💬 Ask me about anything 
