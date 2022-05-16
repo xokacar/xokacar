@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Under construction :D
+I'm Okay from Turkey,and a Computer Engineering Student and FrontEnd Enthusiast. I am learning Javascript,React in these days. I also enjoy UI,UX design in general.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okaykacar)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **okaykacar/okaykacar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
