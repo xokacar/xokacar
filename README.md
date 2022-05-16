@@ -13,7 +13,10 @@ Skills: Html / Css / Javascript / React / Python / Java
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/okaykacar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/okaykacar/)  
 
-![Profile views](https://gpvc.arturio.dev/okaykacar)  
+![Profile views](https://gpvc.arturio.dev/okaykacar) 
+
+
+[CV] (https://drive.google.com/file/d/1dc94Thy-7Et21st6ZDPE_tE1wtNikS6d/view?usp=sharing)
 
 <!--
 **okaykacar/okaykacar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
