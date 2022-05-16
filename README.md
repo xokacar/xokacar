@@ -1,8 +1,18 @@
-### Hi there 👋
+### Welcome aboard👋,  
+
+
 
 I'm Okay from Turkey,and a Computer Engineering Student and FrontEnd Enthusiast. I am learning Javascript,React in these days. I also enjoy UI,UX design in general.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okaykacar)](https://github.com/anuraghazra/github-readme-stats)
+Skills: Html / Css / Javacript / React / Python / Java
+
+- 🌱 I’m currently learning Javascript,React 
+- 💬 Ask me about anything 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/okaykacar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/okaykacar/)  
+
+![Profile views](https://gpvc.arturio.dev/okaykacar)  
 
 <!--
 **okaykacar/okaykacar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
