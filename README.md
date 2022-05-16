@@ -16,7 +16,7 @@ Skills: Html / Css / Javascript / React / Python / Java
 ![Profile views](https://gpvc.arturio.dev/okaykacar) 
 
 
-[CV] (https://drive.google.com/file/d/1dc94Thy-7Et21st6ZDPE_tE1wtNikS6d/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1dc94Thy-7Et21st6ZDPE_tE1wtNikS6d/view?usp=sharing)
 
 <!--
 **okaykacar/okaykacar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
