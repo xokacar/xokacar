@@ -18,7 +18,6 @@ Skills: Html / Css / Javascript / React / Python / Java
 
 [CV](https://drive.google.com/file/d/1dc94Thy-7Et21st6ZDPE_tE1wtNikS6d/view?usp=sharing)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okaykacar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
