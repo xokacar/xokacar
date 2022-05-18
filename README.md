@@ -18,6 +18,9 @@ Skills: Html / Css / Javascript / React / Python / Java
 
 [CV](https://drive.google.com/file/d/1dc94Thy-7Et21st6ZDPE_tE1wtNikS6d/view?usp=sharing)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okaykacar)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **okaykacar/okaykacar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
