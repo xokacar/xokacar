@@ -8,7 +8,8 @@ I'm Okay from Turkey,a Computer Engineering Student and FrontEnd Enthusiast. I a
 Skills: Html / Css / Javascript / React / Python / Java
 
 - 🌱 I’m currently learning Javascript,React 
-- 💬 Ask me about anything 
+- 💬 Ask me about anything
+- 📫 okay.kacar@outlook.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/okaykacar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/okaykacar/)  
