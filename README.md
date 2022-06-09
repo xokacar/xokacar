@@ -21,6 +21,12 @@ Skills: Html / Css / Javascript / React / Python / Java
 
 
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="51" height="51" /></div>
+
+
+
+
+
 <!--
 **okaykacar/okaykacar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
