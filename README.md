@@ -6,7 +6,7 @@
 I'm Okay from Turkey,a Computer Engineering Student and FrontEnd Enthusiast. I am learning Javascript,React in these days. I also enjoy UI,UX design in general.
 
 
-- 🌱 I’m currently learning Javascript,React 
+- 🌱 I’m currently learning Typescript,React 
 - 💬 Ask me about anything
 - 📫 okay.kacar@outlook.com
 
