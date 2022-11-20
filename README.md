@@ -5,7 +5,7 @@
 
 I'm Okay from Turkey,a Computer Engineering Student and Frontend Enthusiast. I am creating projects by using Typescript,React in these days. I also enjoy UI,UX design in general.
 
-- 📫 www.kharj.tech
+- 📫 https://kharj.tech
 - 🌱 I’m currently working with Typescript,React 
 - 💬 Ask me about anything
 - 📫 okay.kacar@outlook.com
