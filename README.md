@@ -3,7 +3,7 @@
 ![giphy (1)](https://user-images.githubusercontent.com/44809357/168667781-2ef2b43a-5cbe-48f4-b38b-7847ee805192.gif)
 
 
-I'm Okay from Turkey,a Computer Engineering Student and Frontend Enthusiast. I am creating projects by using Typescript,React and React Native in these days. I also enjoy UI,UX design in general.
+I'm Okay from Turkey,a Computer Engineering Student and Frontend Enthusiast. I am creating projects by using Typescript,React,React Native and Node.js in these days. I also enjoy UI,UX design in general.
 
 - 📫 https://kharj.tech
 - 🌱 I’m currently working with Typescript,React 
