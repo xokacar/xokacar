@@ -5,13 +5,13 @@
 
 I'm Okay from Turkey,a Computer Engineering Student and Software Engineer. I am creating projects by using Typescript,React,React Native and Node.js in these days. I also enjoy producing music.
 
-- 📫 https://kharj.tech
+- 📫 https://ookay.dev
 - 🌱 I’m currently working with Typescript,React 
 - 💬 Ask me about anything
 - 📫 okay.kacar@outlook.com
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/okaykacar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/okaykacar/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xokacar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/okaykacar/)  
 
 ![Profile views](https://gpvc.arturio.dev/okaykacar) 
 
