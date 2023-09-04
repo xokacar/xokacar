@@ -6,7 +6,8 @@
 Im Okay, a Software Engineer hailing from Turkey. My creative endeavors revolve around crafting projects using a stack that includes Typescript, React, React Native, and Node.js. Beyond coding, I find immense joy in the realm of music production.
 
 - 📫 https://ookay.dev
-- 🌱 I’m currently working with Typescript,React 
+- 🌱 I’m actively using Typescript, Tailwind CSS, React Native, Redux, ReactJS
+- 📖 Learning Swift
 - 💬 Ask me about anything
 - 📫 okay.kacar@outlook.com
 
@@ -16,7 +17,7 @@ Im Okay, a Software Engineer hailing from Turkey. My creative endeavors revolve 
 
 ## Tech Stack
 
-React - React Native - Typescript - Javascript - Python - MongoDB
+React - React Native - Typescript - Javascript - Python - MongoDB - Tailwind CSS - Redux
 
 ### Interested in 
 
