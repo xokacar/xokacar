@@ -7,7 +7,7 @@ Im Okay, a Software Engineer hailing from Turkey. My creative endeavors revolve 
 
 - 📫 https://ookay.dev
 - 🌱 I’m actively using Typescript, Tailwind CSS, React Native, Redux, ReactJS
-- 📖 Learning Swift
+- 📖 Focused on DevOps : ArgoCD, Azure, Helm...
 - 💬 Ask me about anything
 - 📫 okay.kacar@outlook.com
 
