@@ -3,8 +3,6 @@
 ![giphy (1)](https://user-images.githubusercontent.com/44809357/168667781-2ef2b43a-5cbe-48f4-b38b-7847ee805192.gif)
 
 
-Im Okay, a Software Engineer hailing from Turkey. My creative endeavors revolve around crafting projects using a stack that includes Typescript, React, React Native, and Node.js. Beyond coding, I find immense joy in the realm of music production.
-
 - 📫 https://ookay.dev
 - 📫 okay.kacar@outlook.com
 
